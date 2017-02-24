@@ -1,5 +1,5 @@
 # AzureDevEnv
-Visual Studio essentials (which is free) includes a free Azure benefit of $25/month for 1 year. This document explains how to use this benefit to spin up a virtual machine where you can install either Visual Studio Community or VSCode and work completely on the cloud!
+Visual Studio Dev Essentials (which is free) includes $25/month of Azure credits for 1 year. This document explains how to use this benefit to spin up a virtual development environment and work on the cloud for free!
 
 ## Requirements
 * Computer with internet access
@@ -14,10 +14,13 @@ Visual Studio essentials (which is free) includes a free Azure benefit of $25/mo
 
 ![step1_3](images/step1_3.png)
 
-1. At the top of the screen find the button to accept terms and click it.
+4. At the top of the screen find the button to accept terms and click it.
 
 ![step1_3](images/step1_4.png)
 
-1. Click confirm to accept the terms of Visual Studio Essentials.
+5. Click confirm to accept the terms of Visual Studio Dev Essentials.
 
 ![step1_3](images/step1_5.png)
+
+## 2. Activate the free Azure benefit
+
